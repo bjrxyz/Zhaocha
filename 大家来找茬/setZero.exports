@@ -1,0 +1,6 @@
+setZeroInitialize
+setZeroInitializeWithHandlers
+setZeroTerminate
+setZeroPrintStackTrace
+mlxSetZero
+
